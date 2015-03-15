@@ -1,6 +1,6 @@
 {
   "name": "Flexdd Base Mixins",
-  "version": "1.0",
+  "version": "1.0.1",
   "authors": [
     "Adam Bulmer <mintuz1990@gmail.com>"
   ],
@@ -22,5 +22,8 @@
     "bower_components",
     "test",
     "tests"
-  ]
+  ],
+  "dependencies": {
+    "compass-mixins": "~1.0.2"
+  }
 }
